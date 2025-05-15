@@ -1,6 +1,7 @@
 # 🏡 Home Line
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?logo=flutter)
+![IoT](https://img.shields.io/badge/IoT-Enabled-green?logo=internet-of-things)
 
 > **هوم لاین** یک اپلیکیشن قدرتمند و مدرن برای کنترل و مدیریت خانه هوشمند شما با استفاده از فناوری IoT است – فقط کافیست متصل شوید و کنترل را در دست بگیرید! 🚀
 
