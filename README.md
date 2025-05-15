@@ -29,9 +29,9 @@
 
 ### پیش‌نیازها
 
-- [Flutter](https://flutter.dev/) (نسخه پیشنهادی: 3.x)
+- [Flutter](https://flutter.dev/) (3.x)
 - Android Studio یا VSCode
-- دستگاه IoT یا شبیه‌ساز MQTT/HTTP Server
+- MQTT Server
 
 ### نصب و اجرا
 
