@@ -1,1 +1,42 @@
-# home_line
+# 🏡 Home Line
+
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?logo=flutter)
+![IoT](https://img.shields.io/badge/IoT-Enabled-green?logo=internet-of-things)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+![License](https://img.shields.io/github/license/your-username/home-line)
+
+> **Home Line** یک اپلیکیشن قدرتمند و مدرن برای کنترل و مدیریت خانه هوشمند شما با استفاده از فناوری IoT است – فقط کافیست متصل شوید و کنترل را در دست بگیرید! 🚀
+
+<div align="center">
+  <img src="assets/demo_home_line.png" alt="Home Line Demo" width="600"/>
+</div>
+
+---
+
+## ✨ ویژگی‌ها
+
+- **کنترل دستگاه‌های IoT** مثل چراغ‌ها، کولر، قفل‌ها و ...  
+- **اتصال آسان** به برد‌های محبوب (مثل ESP32, Arduino و...)
+- **رابط کاربری زیبا و ساده**
+- **دریافت وضعیت لحظه‌ای تجهیزات**
+- **پشتیبانی از اعلان‌ (Notification) و زمان‌بندی**
+- **امکان شخصی‌سازی سناریوها**
+- **امنیت بالا با تأیید چند مرحله‌ای**
+
+---
+
+## 🚀 شروع سریع
+
+### پیش‌نیازها
+
+- [Flutter](https://flutter.dev/) (نسخه پیشنهادی: 3.x)
+- Android Studio یا VSCode
+- دستگاه IoT یا شبیه‌ساز MQTT/HTTP Server
+
+### نصب و اجرا
+
+```bash
+git clone https://github.com/adriaen01/home-line.git
+cd home-line
+flutter pub get
+flutter run
